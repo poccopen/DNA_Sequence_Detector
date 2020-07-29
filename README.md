@@ -5,4 +5,3 @@ DNA_Sequence_Detector is a program to detect a known sequence unit and to count 
 <img src="https://github.com/M-iyazaki/DNA_Sequence_Detector/blob/master/images/readme1.png" >
 <img src="https://github.com/M-iyazaki/DNA_Sequence_Detector/blob/master/images/readme2.png" >
 <img src="https://github.com/M-iyazaki/DNA_Sequence_Detector/blob/master/images/readme3.png" >
-<img src="https://github.com/M-iyazaki/DNA_Sequence_Detector/blob/master/images/readme4.png" >
