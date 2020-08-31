@@ -1,3 +1,0 @@
-repeatUnit_rc=repeatUnit.replace('A','t').replace('T','a').replace('G','c').replace('C','g').replace('a','A').replace('t','T').replace('g','G').replace('c','C')[::-1]
-
-b=repeatUnit_rc
